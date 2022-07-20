@@ -3,7 +3,7 @@
 ## ui框架 详细了解请移步官网 [uview-plus-ui docs](https://uiadmin.net/uview-plus/).
   +  uview提供了近乎完全的公共样式（请查阅uni_modules/uviwe-plus/libs/css）
   +  uview提供了常用的工具类 （请查询[utils docs](https://uiadmin.net/uview-plus/js/intro.html)）
-## 编码规范: 采用Airbnb比编码风格 [Airbnb docs](https://github.com/airbnb/javascript)
+## 编码规范: 采用Airbnb编码风格 [Airbnb docs](https://github.com/airbnb/javascript)
 ## 状态管理器：[pinia](https://pinia.web3doc.top/)
 ## 框架目录说明
   * .husky      git提交钩子
