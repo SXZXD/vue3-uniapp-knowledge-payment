@@ -2,7 +2,7 @@
  * @Author: CtrlC
  * @Date: 2022-06-30 20:30:44
  * @LastEditors: CtrlC
- * @LastEditTime: 2022-07-20 11:24:33
+ * @LastEditTime: 2022-07-20 18:48:58
  * @Description: app入口文件
  * @FilePath: /uni-preset-vue-vite/src/App.vue
 -->
